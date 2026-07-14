@@ -1,6 +1,3 @@
-Here is the complete content and structure for the `README.md` file, formatted in clean Markdown so it can be easily copied and pasted into your main GitHub repository:
-
-```markdown
 # AERA Digital Platform Ecosystem (Web & Mobile) — 2026 Overhaul
 
 ## 1. Overview
